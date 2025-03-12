@@ -11,9 +11,9 @@
 
 ## Nombrado
 
-monigote un nombre más claro podría ser topo o mole (dependiendo el idioma), ya que el juego se llama "Whac-A-Mole". [Code1]((https://github.com/paulaqing/prg1-22-23/blob/fc0837c6208f4b8ac7d9d9d959799292e16836c5/retos/entregas/paulaDiestro/WhacAMole.java#L7))
+monigote un nombre más claro podría ser topo o mole (dependiendo el idioma), ya que el juego se llama "Whac-A-Mole". [Code1](https://github.com/paulaqing/prg1-22-23/blob/fc0837c6208f4b8ac7d9d9d959799292e16836c5/retos/entregas/paulaDiestro/WhacAMole.java#L7)
 
-casilla podría llamarse casillaGolpeada para mayor claridad. [Code1]((https://github.com/paulaqing/prg1-22-23/blob/fc0837c6208f4b8ac7d9d9d959799292e16836c5/retos/entregas/paulaDiestro/WhacAMole.java#L9))
+casilla podría llamarse casillaGolpeada para mayor claridad. [Code1](https://github.com/paulaqing/prg1-22-23/blob/fc0837c6208f4b8ac7d9d9d959799292e16836c5/retos/entregas/paulaDiestro/WhacAMole.java#L9)
 
 unaCola podría llamarse personasEnCola, ya que el nombre actual no es claro. [Code2](https://github.com/paulaqing/prg1-22-23/blob/fc0837c6208f4b8ac7d9d9d959799292e16836c5/retos/entregas/paulaDiestro/retoCCCF.java#L10)
 
